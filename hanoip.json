@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_hanoip-14.0-20240304-2032.zip",
-    "datetime": 1709280277,
-    "size": 1570102935,
-    "url": "https://github.com/hanoip-releases/pos_releases/releases/download/test/PixelOS_hanoip-14.0-20240304-2032.zip",
-    "filehash": "9b95aed2837f21144b7d153fbfab14715046cec7",
-    "id": "9b95aed2837f21144b7d153fbfab14715046cec7",
+    "filename": "PixelOS_hanoip-14.0-20240305-1329.zip",
+    "datetime": 1709280207,
+    "size": 1572566169,
+    "url": "https://github.com/hanoip-releases/pos_releases/releases/download/v2024.02.1/PixelOS_hanoip-14.0-20240305-1329.zip",
+    "filehash": "dc2add24b4e9d5adf5712a164baad378b97bfca1",
+    "id": "dc2add24b4e9d5adf5712a164baad378b97bfca1",
     "maintainers": [
         {
             "main_maintainer": false,
