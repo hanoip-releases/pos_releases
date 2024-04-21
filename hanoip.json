@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_hanoip-14.0-20240305-1329.zip",
-    "datetime": 1709280207,
-    "size": 1572566169,
-    "url": "https://github.com/hanoip-releases/pos_releases/releases/download/v2024.02.1/PixelOS_hanoip-14.0-20240305-1329.zip",
-    "filehash": "dc2add24b4e9d5adf5712a164baad378b97bfca1",
-    "id": "dc2add24b4e9d5adf5712a164baad378b97bfca1",
+    "filename": "PixelOS_hanoip-14.0-20240421-1312.zip",
+    "datetime": 1713465337,
+    "size": 1646071056,
+    "url": "https://github.com/hanoip-releases/pos_releases/releases/download/v2024.04/PixelOS_hanoip-14.0-20240421-1312.zip",
+    "filehash": "aa0acf3db174901b835c2e3e6adfdba775a3e010",
+    "id": "aa0acf3db174901b835c2e3e6adfdba775a3e010",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -16,6 +16,6 @@
     ],
     "donate_url": "https://paypal.me/anoosragh69",
     "website_url": "",
-    "news_url": "https://t.me/anoosot",
+    "news_url": "https://t.me/anoosupdates",
     "forum_url": ""
 }
